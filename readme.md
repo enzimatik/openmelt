@@ -1,0 +1,5 @@
+-[ ] instrument, temperature, refrence input
+-[ ] tabbed look
+-[ ] sample selector
+-[ ] meta integration
+-[ ] plot_ly or ggplot?
